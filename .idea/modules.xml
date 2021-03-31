@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_BT_PrimeLessThanNumber.iml" filepath="$PROJECT_DIR$/.idea/Java_BT_PrimeLessThanNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime Less Than Number/Prime Less Than Number.iml" filepath="$PROJECT_DIR$/Prime Less Than Number/Prime Less Than Number.iml" />
+    </modules>
+  </component>
+</project>
